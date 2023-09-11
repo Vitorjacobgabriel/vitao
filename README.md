@@ -2,9 +2,8 @@
 
 
 
--Eu estou estudando no alur
+-Eu estou estudando no alura
 
-Eu estou
 
 -Utilizo esse espaço na minha organisação dos meus progetos desenvolvidos
 
